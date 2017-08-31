@@ -7,6 +7,13 @@
     android:layout_height="match_parent"
     tools:context="com.example.aula7.buttonnavigation.MainActivity">
 
+    <FrameLayout
+        android:id="@+id/f_l1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </FrameLayout>
+
     <android.support.design.widget.BottomNavigationView
         android:id="@+id/b_n_v1"
         android:layout_width="match_parent"

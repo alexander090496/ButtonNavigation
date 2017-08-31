@@ -4,4 +4,9 @@
     <string name="strreset">Recents</string>
     <string name="strfav">Favorites</string>
     <string name="strnear">Nearby</string>
+    <string name="pantalla1">Pantalla1</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pantalla2">Pantalla2</string>
 </resources>
