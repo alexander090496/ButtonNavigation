@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ButtonNavigation</string>
+    <string name="strmenu">Opcion1</string>
+    <string name="strreset">Recents</string>
+    <string name="strfav">Favorites</string>
+    <string name="strnear">Nearby</string>
+</resources>
